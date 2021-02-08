@@ -1,0 +1,10 @@
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\bin\Debug\Primjena Windows kontrola.exe.config
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\bin\Debug\Primjena Windows kontrola.exe
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\bin\Debug\Primjena Windows kontrola.pdb
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\obj\Debug\Primjena Windows kontrola.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\obj\Debug\Primjena_Windows_kontrola.Form1.resources
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\obj\Debug\Primjena_Windows_kontrola.Properties.Resources.resources
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\obj\Debug\Primjena Windows kontrola.csproj.GenerateResource.cache
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\obj\Debug\Primjena Windows kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\obj\Debug\Primjena Windows kontrola.exe
+C:\Users\Mato\source\repos\Primjena Windows kontrola\Primjena Windows kontrola\obj\Debug\Primjena Windows kontrola.pdb
